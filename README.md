@@ -10,6 +10,7 @@ I build small web applications, websites, and Python tools while continuously im
 Currently working with:
 
 * Python
+* Java
 * HTML
 * CSS
 * JavaScript
@@ -44,6 +45,7 @@ Short description of the project.
 
 * JavaScript
 * Python
+* Java
 * Web development
 * Git and GitHub
 
