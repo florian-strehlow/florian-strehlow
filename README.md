@@ -1,5 +1,5 @@
-## Hi there 👋
-# [Florian Strehlow]
+
+# Florian Strehlow
 
 Student developer focused on web development and Python.
 
